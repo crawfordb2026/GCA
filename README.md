@@ -1,2 +1,2 @@
-# GCA
+# portfolio
 global career accelerator
